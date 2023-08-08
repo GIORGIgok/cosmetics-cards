@@ -1,2 +1,1 @@
-# cosmetics cards
- data fetching.
+non-responsive.
