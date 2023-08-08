@@ -1,4 +1,4 @@
-const url = 'http://makeup-api.herokuapp.com/api/v1/products.json?brand=maybelline';
+const url = 'https://makeup-api.herokuapp.com/api/v1/products.json?brand=maybelline';
 
 const options = {
   method: 'GET',
